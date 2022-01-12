@@ -37,3 +37,6 @@
     git branch -d (nome do branch) = Para deletar
 
     git merge (branch) = Para juntar o branch secundário ao principal
+    git ftch =
+    git repose =  
+    git pull =
