@@ -17,7 +17,7 @@
     git log --before="2021-01-09" = Verificar commit anterior a data informada
     git log --after="2021-01-09" = Verificar commit depois a data informada
     git log --author="nome do autor" = Verificar os commits do autor desejado
-    git logg --oneline = Verificar os log de ID resumido
+    git log --oneline = Verificar os log de ID resumido
 
 # Voltando no tempo
 
@@ -40,3 +40,7 @@
     git ftch =
     git repose =  
     git pull =
+
+
+    teste 
+    
