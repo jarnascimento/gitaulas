@@ -11,5 +11,5 @@ comandos iniciais
     git push
     git status
 
-    git clone
+    git clone (endereço do seu repositório.)
     
